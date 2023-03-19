@@ -1,16 +1,16 @@
-# ES114 Data Centric Computing
+# ES112 Computing
 
 This document contains important information about the course.
 
 `Course Information:`
 
-> Course Name: Data Centric Computing
+> Course Name: Computing
 
-> Course Code: ES114
+> Course Code: ES112
 
 > Instructor : -
 
-> Semester : Second Semester
+> Semester : First Semester
 ---
 
 `Course Description and Topics`
