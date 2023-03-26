@@ -1,5 +1,3 @@
-11+12
-
 # ES112 Computing
 
 This document contains important information about the course.
